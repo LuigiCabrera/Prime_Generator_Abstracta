@@ -1,0 +1,2 @@
+# Prime_Generator_Abstracta
+Algoritmos utiles para generar primos usando Miller_Rabin_Probabilistic_test
